@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAtividadeDesafio", "ConsoleAtividadeDesafio.csproj", "{D21F61C3-71E2-4322-B809-D7E5C03F8227}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D21F61C3-71E2-4322-B809-D7E5C03F8227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D21F61C3-71E2-4322-B809-D7E5C03F8227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D21F61C3-71E2-4322-B809-D7E5C03F8227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D21F61C3-71E2-4322-B809-D7E5C03F8227}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
